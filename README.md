@@ -1,2 +1,2 @@
 # data-ananas
-scatola di codici precisi (repositorio test)
+Welcome to my coding portfolio. Benvenuti su mio coding portfolio.
