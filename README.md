@@ -1,2 +1,2 @@
 # data-analysis-portfolio
-Welcome to my portfolio. Benvenuti su mio portfolio.
+Welcome to my data analysis and coding portfolio.
