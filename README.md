@@ -1,2 +1,2 @@
-# data-ananas
-Welcome to my coding portfolio. Benvenuti su mio coding portfolio.
+# data-analysis-portfolio
+Welcome to my portfolio. Benvenuti su mio portfolio.
