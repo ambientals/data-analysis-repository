@@ -1,5 +1,6 @@
 # Data Analysis portfolio
-Welcome to my data analysis and coding portfolio, here below you can see a showcase of my Python coding studies.
+Welcome to my data analysis and coding portfolio, here you can see a showcase of my data analysis practices. <br>
+Currently, only Python codes are displayed, but SQL codes and visualizations from Power BI, MatLab and qGIS are soon to be uploaded.
 
 <strong>Demos</strong> - functions or codes applied on <em>practical problems</em>:
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/demo_check_packages_and_names.py">Check installed Python packages and directories</a>
