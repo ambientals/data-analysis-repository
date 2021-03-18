@@ -1,5 +1,5 @@
-# Data-driven coding repository
-Data-driven coding repository. Code practices to be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab.
+# Data-driven coding
+Code practices to be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab.
 <br>
 
 ## Python
