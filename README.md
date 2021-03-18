@@ -9,7 +9,7 @@ To be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab code practices.
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/example_winrm.py">Run SSH remote connection from Linux/Windows to Windows using WinRM</a>
 <br>
 
-<strong>Functions</strong> - functions applied to <em>programming concepts training</em>:
+<strong>Functions</strong> - functions applied to <em>programming concepts practice</em>:
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/func_array_length.py">Array length calculator</a>
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/func_is_palindrome.py">Palindrome string checker</a>
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/func_calculator.py">Basic math calculator</a>
@@ -19,7 +19,7 @@ To be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab code practices.
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/func_meters_to_miles.py">Meters to miles converter</a>
 <br>
 
-<strong>Examples</strong> - other codes applied to programming training:
+<strong>Examples</strong> - other codes applied to programming practice:
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/example_classes.py">Classes</a>
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/example_for_loop.py">For loops</a>
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/example_list_creation.py">List creation</a>
