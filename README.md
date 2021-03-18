@@ -1,5 +1,5 @@
 # Data-driven coding
-Code practices to be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab.
+To be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab code practices. 
 <br>
 
 ## Python
