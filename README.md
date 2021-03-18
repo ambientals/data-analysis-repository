@@ -1,5 +1,5 @@
 # Data-driven coding repository
-Data-driven coding repository. Currently, only Python codes are displayed, but SQL, DAX, SPL, XML, YML, and MatLab are soon to be uploaded.
+Data-driven coding repository. Code practices to be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab.
 <br>
 
 ## Python
