@@ -4,6 +4,7 @@ To be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab code practices.
 
 ## Python
 <strong>Demos</strong> - functions or codes applied to <em>practical problems</em>:
+* <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/automazione_data_quality.py">Check if a file follows specific data constraints</a>
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/demo_check_packages_and_names.py">Check installed Python packages and directories</a>
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/example_paramiko.py">Run SSH remote connection from Linux/Windows to Linux using Paramiko</a>
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/example_winrm.py">Run SSH remote connection from Linux/Windows to Windows using WinRM</a>
