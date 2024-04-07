@@ -1,5 +1,5 @@
 # Data-driven coding repo
-To be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab code practices. 
+To be soon uploaded: SQL, DAX, SPL, XML, YML, and MatLab coding solutions. 
 <br>
 
 ## Python
